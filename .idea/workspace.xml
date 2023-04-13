@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f43ce796-c2f1-4fbe-ac80-856cda9042ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TestaInsercaoComParametro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestaListagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaListagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestaRemocao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaRemocao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaInsercaoComParametro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaInsercaoComParametro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +43,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestaListagem">
+  <component name="RunManager" selected="Application.TestaInsercaoComParametro">
     <configuration name="TestaConexao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestaConexao" />
       <module name="Java e JDBC trabalhando com um banco de dados" />
@@ -83,9 +81,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaInsercaoComParametro" />
         <item itemvalue="Application.TestaListagem" />
         <item itemvalue="Application.TestaRemocao" />
-        <item itemvalue="Application.TestaInsercaoComParametro" />
         <item itemvalue="Application.TestaInsercao" />
         <item itemvalue="Application.TestaConexao" />
       </list>
@@ -128,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681299760734</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="adicionando arquivos do curso">
+      <created>1681384399004</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681384399004</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
